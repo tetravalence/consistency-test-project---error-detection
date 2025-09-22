@@ -1,0 +1,28 @@
+{
+  "id": "char-mixed-location-person-001",
+  "name": "Test Character with Mixed Locations",
+  "description": "Character designed to test mixed location field types",
+  "birthDate": "000600-01-01T00:00:00.000Z",
+  "deathDate": "000650-01-01T00:00:00.000Z",
+  "traits": [
+    "Traveler"
+  ],
+  "motivation": "To test location conflicts",
+  "background": "Test character",
+  "notes": "Has events with both direct location strings and linkedLocationIds",
+  "isHistorical": false,
+  "imageUrl": null,
+  "tags": [
+    "test",
+    "mixed-locations"
+  ],
+  "timelineIds": [
+    "tl-medieval-conflicts-002"
+  ],
+  "relatedCharacterIds": [],
+  "linkedEventIds": [
+    "event-mixed-locations-011",
+    "event-mixed-locations-012"
+  ],
+  "locations": []
+}

@@ -1,0 +1,81 @@
+{
+  "title": "Napoleon's Rise and Reign",
+  "description": "A narrative detailing Napoleon Bonaparte's ascent to power and his rule over France and much of Europe.",
+  "timelineId": "tl-modern-era-003",
+  "characterIds": [
+    "napoleon-bonaparte"
+  ],
+  "tags": [
+    "empire",
+    "revolution",
+    "war",
+    "politics"
+  ],
+  "relatedEventIds": [],
+  "relatedCharacterIds": [],
+  "relatedLocationIds": [],
+  "relatedTimelineIds": [],
+  "narrativeType": "linear",
+  "updatedAt": "2025-09-15T03:11:01.043Z",
+  "color": "#C0392B",
+  "id": "f1f71688-aad4-4c16-89c2-5411210339c6",
+  "scenes": [
+    {
+      "id": "f2cb48f1-6feb-4bbd-90fe-bd15994a02ab",
+      "title": "The Coup of 1799",
+      "content": "erty",
+      "order": 0,
+      "characterIds": [
+        "napoleon-bonaparte"
+      ],
+      "locationIds": [
+        "paris-france"
+      ],
+      "eventIds": [
+        "001804-05-18t00:00:00.000z"
+      ],
+      "description": "asdf"
+    },
+    {
+      "id": "997f189e-b173-44cc-9a1f-b5a86342cc75",
+      "title": "The Napoleonic Wars",
+      "content": "Napoleon leads France through a series of brilliant military campaigns, conquering much of Europe and establishing the First French Empire. Key battles and campaigns are detailed, showcasing his strategic genius and the immense scale of the conflict.",
+      "order": 1,
+      "characterIds": [
+        "napoleon-bonaparte"
+      ],
+      "locationIds": [
+        "france",
+        "russia",
+        "britain",
+        "spain",
+        "italy"
+      ],
+      "eventIds": [
+        "001812-06-24t00:00:00.000z",
+        "001798-07-01t00:00:00.000z",
+        "null"
+      ]
+    },
+    {
+      "id": "5296f238-3cf6-4613-8a5a-829cb05779d8",
+      "title": "The Fall of the Empire",
+      "content": "Despite initial successes, Napoleon's ambitions ultimately lead to his downfall.  Strategic errors, coalition warfare, and the disastrous invasion of Russia culminate in his final defeat and the dissolution of the Empire.",
+      "order": 2,
+      "characterIds": [
+        "napoleon-bonaparte"
+      ],
+      "locationIds": [
+        "russia",
+        "france"
+      ],
+      "eventIds": [
+        "001804-05-18t00:00:00.000z",
+        "001812-06-24t00:00:00.000z",
+        "001798-07-01t00:00:00.000z",
+        "null"
+      ]
+    }
+  ],
+  "createdAt": "2025-09-15T02:54:26.006Z"
+}

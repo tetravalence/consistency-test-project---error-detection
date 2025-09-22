@@ -1,0 +1,40 @@
+{
+  "id": "22545718-aab6-4676-80e6-76a193c821ff",
+  "name": "Napoleon Bonaparte",
+  "description": "French emperor and military leader",
+  "birthDate": null,
+  "deathDate": null,
+  "traits": [
+    "Military Strategist",
+    "Politician",
+    "Innovator"
+  ],
+  "motivation": "Expand French influence and establish a new empire.",
+  "background": "Rose to power through military victories and political maneuvering during the French Revolution.",
+  "isHistorical": true,
+  "imageUrl": null,
+  "timelineIds": [
+    "tl-modern-era-003"
+  ],
+  "linkedEventIds": [
+    "001804-05-18T00:00:00.000Z",
+    "001812-06-24T00:00:00.000Z",
+    "001798-07-01T00:00:00.000Z",
+    "001812-06-24T00:00:00.000Z",
+    "001798-07-01T00:00:00.000Z"
+  ],
+  "relatedCharacterIds": {},
+  "locations": [
+    "France",
+    "Russia",
+    "Egypt",
+    "Paris",
+    "Moscow"
+  ],
+  "tags": [
+    "French History",
+    "Military",
+    "Politics"
+  ],
+  "notes": "A dominant figure in European history, known for his military genius and political ambition."
+}

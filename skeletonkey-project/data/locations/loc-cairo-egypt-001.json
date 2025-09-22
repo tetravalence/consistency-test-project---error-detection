@@ -1,0 +1,27 @@
+{
+  "id": "loc-cairo-egypt-001",
+  "name": "Cairo, Egypt",
+  "description": "Egyptian capital during Napoleon's campaign",
+  "type": "City",
+  "coordinates": {
+    "lat": 30.0444,
+    "lng": 31.2357
+  },
+  "foundedDate": "000969-01-01T00:00:00.000Z",
+  "destroyedDate": null,
+  "population": 200000,
+  "importance": 7,
+  "notes": "Egyptian capital during French expedition",
+  "tags": [
+    "modern",
+    "egypt",
+    "city"
+  ],
+  "timelineIds": [
+    "tl-modern-era-003"
+  ],
+  "parentLocationId": null,
+  "linkedEventIds": [
+    "event-napoleon-egypt-015"
+  ]
+}

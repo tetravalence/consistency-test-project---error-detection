@@ -1,0 +1,40 @@
+{
+  "id": "e76f7395-4379-485f-9610-5d8f6265b0bc",
+  "name": "Napoleon Bonaparte",
+  "description": "French emperor and military leader who dominated Europe in the early 19th century.",
+  "birthDate": null,
+  "deathDate": "1821-05-15T00:00:00.000Z",
+  "traits": [
+    "Military Genius",
+    "Ambitious",
+    "Strategic",
+    "Authoritarian"
+  ],
+  "motivation": "To establish a French Empire and dominate Europe.",
+  "background": "Born into a Corsican noble family, he rose through the ranks of the French army, eventually seizing power in a coup.",
+  "isHistorical": true,
+  "imageUrl": null,
+  "timelineIds": [
+    "tl-modern-era-003"
+  ],
+  "linkedEventIds": [
+    "001804-05-18T00:00:00.000Z",
+    "001812-06-24T00:00:00.000Z",
+    "001798-07-01T00:00:00.000Z"
+  ],
+  "relatedCharacterIds": {},
+  "locations": [
+    "Rome",
+    "Egypt",
+    "Moscow",
+    "Paris",
+    "Madrid"
+  ],
+  "tags": [
+    "Military",
+    "Politics",
+    "Europe",
+    "Empire"
+  ],
+  "notes": "Known for his campaigns in Italy, Egypt, and Russia."
+}

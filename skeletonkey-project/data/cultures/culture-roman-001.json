@@ -1,0 +1,44 @@
+{
+  "id": "culture-roman-001",
+  "name": "Roman Culture",
+  "description": "Culture of the Roman Empire",
+  "foundedDate": "-000753-01-01T00:00:00.000Z",
+  "endDate": "000476-01-01T00:00:00.000Z",
+  "values": [
+    "Order",
+    "Law",
+    "Conquest"
+  ],
+  "practices": [
+    "Gladiatorial games",
+    "Senate governance",
+    "Road building"
+  ],
+  "languages": [
+    "Latin"
+  ],
+  "beliefs": [
+    "Roman pantheon",
+    "Imperial cult"
+  ],
+  "notes": "Dominant ancient culture",
+  "tags": [
+    "ancient",
+    "empire",
+    "law"
+  ],
+  "timelineIds": [
+    "tl-ancient-world-001"
+  ],
+  "linkedLocationIds": [
+    "loc-rome-001"
+  ],
+  "linkedCharacterIds": [
+    "char-julius-caesar-001"
+  ],
+  "linkedEventIds": [
+    "event-cleopatra-rome-002",
+    "event-caesar-gaul-004",
+    "event-caesar-britain-005"
+  ]
+}

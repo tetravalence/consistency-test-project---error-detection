@@ -1,0 +1,27 @@
+{
+  "id": "loc-paris-001",
+  "name": "Paris",
+  "description": "City of Paris, France",
+  "type": "City",
+  "coordinates": {
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  "foundedDate": "000300-01-01T00:00:00.000Z",
+  "destroyedDate": null,
+  "population": 200000,
+  "importance": 8,
+  "notes": "Medieval Paris",
+  "tags": [
+    "medieval",
+    "france",
+    "city"
+  ],
+  "timelineIds": [
+    "tl-medieval-conflicts-002"
+  ],
+  "parentLocationId": null,
+  "linkedEventIds": [
+    "event-mixed-locations-012"
+  ]
+}

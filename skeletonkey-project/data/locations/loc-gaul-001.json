@@ -1,0 +1,27 @@
+{
+  "id": "loc-gaul-001",
+  "name": "Gaul",
+  "description": "Ancient region of Gaul",
+  "type": "Region",
+  "coordinates": {
+    "lat": 46.2276,
+    "lng": 2.2137
+  },
+  "foundedDate": null,
+  "destroyedDate": null,
+  "population": null,
+  "importance": 8,
+  "notes": "Ancient Celtic region",
+  "tags": [
+    "ancient",
+    "gaul",
+    "celtic"
+  ],
+  "timelineIds": [
+    "tl-ancient-world-001"
+  ],
+  "parentLocationId": null,
+  "linkedEventIds": [
+    "event-caesar-gaul-004"
+  ]
+}

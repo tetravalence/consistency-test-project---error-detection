@@ -1,0 +1,27 @@
+{
+  "id": "loc-camelot-001",
+  "name": "Camelot",
+  "description": "Legendary castle and court of King Arthur",
+  "type": "Castle",
+  "coordinates": {
+    "lat": 51.1789,
+    "lng": -1.8262
+  },
+  "foundedDate": "000500-01-01T00:00:00.000Z",
+  "destroyedDate": null,
+  "population": 5000,
+  "importance": 8,
+  "notes": "Legendary seat of Arthur's kingdom",
+  "tags": [
+    "medieval",
+    "legend",
+    "castle"
+  ],
+  "timelineIds": [
+    "tl-medieval-conflicts-002"
+  ],
+  "parentLocationId": null,
+  "linkedEventIds": [
+    "event-arthur-camelot-008"
+  ]
+}

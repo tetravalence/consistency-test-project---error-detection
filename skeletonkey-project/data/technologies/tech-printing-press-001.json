@@ -1,0 +1,26 @@
+{
+  "id": "tech-printing-press-001",
+  "name": "Printing Press",
+  "description": "Movable type printing technology",
+  "discoveryDate": "001440-01-01T00:00:00.000Z",
+  "developmentLevel": 7,
+  "impact": 9,
+  "fields": [
+    "Communication",
+    "Education",
+    "Literature"
+  ],
+  "notes": "Revolutionary communication technology",
+  "tags": [
+    "medieval",
+    "communication",
+    "innovation"
+  ],
+  "prerequisiteTechIds": [],
+  "derivedTechIds": [],
+  "inventors": [],
+  "linkedEventIds": [],
+  "timelineIds": [
+    "tl-medieval-conflicts-002"
+  ]
+}

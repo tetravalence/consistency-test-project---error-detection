@@ -1,0 +1,27 @@
+{
+  "id": "loc-spain-001",
+  "name": "Spain",
+  "description": "Iberian Peninsula",
+  "type": "Region",
+  "coordinates": {
+    "lat": 40.4637,
+    "lng": -3.7492
+  },
+  "foundedDate": null,
+  "destroyedDate": null,
+  "population": null,
+  "importance": 7,
+  "notes": "Testing location",
+  "tags": [
+    "ancient",
+    "spain",
+    "region"
+  ],
+  "timelineIds": [
+    "tl-ancient-world-001"
+  ],
+  "parentLocationId": null,
+  "linkedEventIds": [
+    "event-cleopatra-spain-003"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "source-test-001",
+  "title": "Test Historical Sources",
+  "description": "Fabricated historical sources for testing purposes",
+  "authors": [
+    "Test Author"
+  ],
+  "publicationDate": "001800-01-01T00:00:00.000Z",
+  "documentType": "Primary Source",
+  "url": "",
+  "filePath": "",
+  "notes": "These are test sources designed to support the test events",
+  "tags": [
+    "test",
+    "fabricated",
+    "historical"
+  ],
+  "citations": {}
+}

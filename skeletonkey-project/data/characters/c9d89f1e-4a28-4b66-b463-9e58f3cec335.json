@@ -1,0 +1,52 @@
+{
+  "id": "c9d89f1e-4a28-4b66-b463-9e58f3cec335",
+  "name": "Cleopatra VII",
+  "description": "Last pharaoh of Egypt",
+  "birthDate": null,
+  "deathDate": null,
+  "traits": [
+    "Political Strategist",
+    "Diplomat",
+    "Warrior"
+  ],
+  "motivation": "Preserve Egypt's independence and power.",
+  "background": "Born into a royal family, she ascended to the throne through political maneuvering and military prowess.",
+  "isHistorical": true,
+  "imageUrl": null,
+  "timelineIds": [
+    "tl-ancient-world-001"
+  ],
+  "linkedEventIds": [
+    "000069-01-01T00:00:00.000Z",
+    "000068-01-01T00:00:00.000Z",
+    "000067-01-01T00:00:00.000Z",
+    "000500-01-01T00:00:00.000Z",
+    "000501-01-01T00:00:00.000Z",
+    "000502-01-01T00:00:00.000Z",
+    "001804-05-18T00:00:00.000Z",
+    "001812-06-24T00:00:00.000Z",
+    "001798-07-01T00:00:00.000Z"
+  ],
+  "relatedCharacterIds": {
+    "julius_caesar": [
+      "1"
+    ],
+    "napoleon_bonaparte": [
+      "1"
+    ]
+  },
+  "locations": [
+    "Alexandria",
+    "Rome",
+    "Spain",
+    "Gaul",
+    "Britain",
+    "Egypt"
+  ],
+  "tags": [
+    "Ancient Egypt",
+    "Pharaoh",
+    "Politics"
+  ],
+  "notes": "Known for her intelligence, charisma, and political skills."
+}

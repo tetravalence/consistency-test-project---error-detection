@@ -1,0 +1,30 @@
+{
+  "id": "00f5a1f0-3348-4f5b-9929-f9b572081fca",
+  "name": "Electric Generator",
+  "description": "A device that converts mechanical energy into electrical energy.",
+  "discoveryDate": "1831",
+  "developmentLevel": 6,
+  "impact": 7,
+  "fields": [],
+  "prerequisiteTechIds": [
+    "te-electromagnet"
+  ],
+  "derivedTechIds": [
+    "te-electric-motor"
+  ],
+  "inventors": [
+    "Michael Faraday"
+  ],
+  "timelineIds": [
+    "tl-modern-era-003"
+  ],
+  "linkedEventIds": [
+    "001804-05-18T00:00:00.000Z"
+  ],
+  "tags": [
+    "Industrial Revolution",
+    "Power",
+    "Electricity"
+  ],
+  "notes": ""
+}

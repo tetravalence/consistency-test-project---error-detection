@@ -1,0 +1,27 @@
+{
+  "id": "char-unknown-modern-002",
+  "name": "Unknown Modern Figure 2",
+  "description": "Modern era character in empty date event",
+  "birthDate": "001800-01-01T00:00:00.000Z",
+  "deathDate": "001850-01-01T00:00:00.000Z",
+  "traits": [
+    "Unknown"
+  ],
+  "motivation": "Testing",
+  "background": "Modern test figure",
+  "notes": "For testing empty date events",
+  "isHistorical": false,
+  "imageUrl": null,
+  "tags": [
+    "modern",
+    "test"
+  ],
+  "timelineIds": [
+    "tl-modern-era-003"
+  ],
+  "relatedCharacterIds": [],
+  "linkedEventIds": [
+    "event-empty-string-date-017"
+  ],
+  "locations": []
+}

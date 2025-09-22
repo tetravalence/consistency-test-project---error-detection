@@ -1,0 +1,38 @@
+{
+  "id": "char-cleopatra-001",
+  "name": "Cleopatra VII",
+  "description": "Last pharaoh of Egypt - appears in multiple conflicting locations",
+  "birthDate": "-000069-01-01T00:00:00.000Z",
+  "deathDate": "-000030-08-12T00:00:00.000Z",
+  "traits": [
+    "Ambitious",
+    "Intelligent",
+    "Multilingual"
+  ],
+  "motivation": "To restore Egypt's power and independence",
+  "background": "Last active pharaoh of Ptolemaic Egypt",
+  "notes": "This character is designed to trigger location conflicts",
+  "isHistorical": true,
+  "imageUrl": null,
+  "tags": [
+    "egypt",
+    "pharaoh",
+    "conflict-test"
+  ],
+  "timelineIds": [
+    "tl-ancient-world-001"
+  ],
+  "relatedCharacterIds": [
+    "char-julius-caesar-001"
+  ],
+  "linkedEventIds": [
+    "event-cleopatra-egypt-001",
+    "event-cleopatra-rome-002",
+    "event-cleopatra-spain-003"
+  ],
+  "locations": [
+    "loc-alexandria-egypt-001",
+    "loc-rome-001",
+    "loc-spain-001"
+  ]
+}

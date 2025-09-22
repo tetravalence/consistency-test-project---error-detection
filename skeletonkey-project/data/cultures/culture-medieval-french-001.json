@@ -1,0 +1,38 @@
+{
+  "id": "culture-medieval-french-001",
+  "name": "Medieval French Culture",
+  "description": "Culture of medieval France",
+  "foundedDate": "000843-01-01T00:00:00.000Z",
+  "endDate": "001453-01-01T00:00:00.000Z",
+  "values": [
+    "Chivalry",
+    "Christianity",
+    "Feudalism"
+  ],
+  "practices": [
+    "Knightly tournaments",
+    "Cathedral building",
+    "Courtly love"
+  ],
+  "languages": [
+    "Old French",
+    "Latin"
+  ],
+  "beliefs": [
+    "Catholic Christianity"
+  ],
+  "notes": "Medieval European culture",
+  "tags": [
+    "medieval",
+    "france",
+    "chivalry"
+  ],
+  "timelineIds": [
+    "tl-medieval-conflicts-002"
+  ],
+  "linkedLocationIds": [
+    "loc-france-001"
+  ],
+  "linkedCharacterIds": [],
+  "linkedEventIds": []
+}

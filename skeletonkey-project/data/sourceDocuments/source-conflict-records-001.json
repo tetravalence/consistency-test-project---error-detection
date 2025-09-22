@@ -1,0 +1,19 @@
+{
+  "id": "source-conflict-records-001",
+  "title": "Conflicting Historical Records",
+  "description": "Records that deliberately contradict each other for testing",
+  "authors": [
+    "Conflict Author"
+  ],
+  "publicationDate": "001850-01-01T00:00:00.000Z",
+  "documentType": "Secondary Source",
+  "url": "",
+  "filePath": "",
+  "notes": "Sources that support conflicting location claims",
+  "tags": [
+    "test",
+    "conflicting",
+    "records"
+  ],
+  "citations": {}
+}

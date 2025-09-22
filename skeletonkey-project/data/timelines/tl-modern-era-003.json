@@ -1,0 +1,183 @@
+{
+  "id": "tl-modern-era-003",
+  "name": "Modern Era Test Timeline",
+  "description": "Modern timeline with additional conflict types",
+  "color": "#27AE60",
+  "startDate": "001500-01-01T00:00:00.000Z",
+  "endDate": "002000-01-01T00:00:00.000Z",
+  "events": [
+    {
+      "id": "event-napoleon-france-013",
+      "title": "Napoleon Rules France",
+      "description": "Napoleon becomes Emperor of France",
+      "date": "001804-05-18T00:00:00.000Z",
+      "endDate": null,
+      "timelineId": "tl-modern-era-003",
+      "importance": 10,
+      "isPointOfDivergence": false,
+      "iconId": "event_icon",
+      "causes": [],
+      "effects": [],
+      "linkedCharacterIds": [
+        "char-napoleon-001"
+      ],
+      "linkedLocationIds": [
+        "loc-paris-france-001"
+      ],
+      "linkedTechnologyIds": [],
+      "linkedCultureIds": [],
+      "linkedSourceDocumentIds": [],
+      "linkedNarrativeIds": [],
+      "notes": "Napoleon in France",
+      "tags": [
+        "napoleon",
+        "france"
+      ]
+    },
+    {
+      "id": "event-napoleon-russia-014",
+      "title": "Napoleon Invades Russia",
+      "description": "Napoleon launches massive invasion of Russia",
+      "date": "001812-06-24T00:00:00.000Z",
+      "endDate": null,
+      "timelineId": "tl-modern-era-003",
+      "importance": 9,
+      "isPointOfDivergence": false,
+      "iconId": "conflict_icon",
+      "causes": [],
+      "effects": [],
+      "linkedCharacterIds": [
+        "char-napoleon-001"
+      ],
+      "linkedLocationIds": [
+        "loc-moscow-russia-001"
+      ],
+      "linkedTechnologyIds": [],
+      "linkedCultureIds": [],
+      "linkedSourceDocumentIds": [],
+      "linkedNarrativeIds": [],
+      "notes": "Napoleon in Russia - location conflict with France",
+      "tags": [
+        "napoleon",
+        "russia"
+      ]
+    },
+    {
+      "id": "event-napoleon-egypt-015",
+      "title": "Napoleon's Egyptian Campaign",
+      "description": "Napoleon leads scientific and military expedition to Egypt",
+      "date": "001798-07-01T00:00:00.000Z",
+      "endDate": null,
+      "timelineId": "tl-modern-era-003",
+      "importance": 8,
+      "isPointOfDivergence": false,
+      "iconId": "conflict_icon",
+      "causes": [],
+      "effects": [],
+      "linkedCharacterIds": [
+        "char-napoleon-001"
+      ],
+      "linkedLocationIds": [
+        "loc-cairo-egypt-001"
+      ],
+      "linkedTechnologyIds": [],
+      "linkedCultureIds": [],
+      "linkedSourceDocumentIds": [],
+      "linkedNarrativeIds": [],
+      "notes": "Napoleon in Egypt - third location for same character",
+      "tags": [
+        "napoleon",
+        "egypt"
+      ]
+    },
+    {
+      "id": "event-high-importance-no-date-016",
+      "title": "Critical Modern Event Without Date",
+      "description": "A crucial modern event that mysteriously has no date assigned",
+      "date": null,
+      "endDate": null,
+      "timelineId": "tl-modern-era-003",
+      "importance": 10,
+      "isPointOfDivergence": false,
+      "iconId": "event_icon",
+      "causes": [],
+      "effects": [],
+      "linkedCharacterIds": [
+        "char-unknown-modern-001"
+      ],
+      "linkedLocationIds": [],
+      "linkedTechnologyIds": [],
+      "linkedCultureIds": [],
+      "linkedSourceDocumentIds": [],
+      "linkedNarrativeIds": [],
+      "notes": "Maximum importance but no date - should definitely trigger warning",
+      "tags": [
+        "modern",
+        "undated",
+        "critical"
+      ]
+    },
+    {
+      "id": "event-empty-string-date-017",
+      "title": "Event with Empty String Date",
+      "description": "Important event with empty string as date",
+      "date": "",
+      "endDate": null,
+      "timelineId": "tl-modern-era-003",
+      "importance": 9,
+      "isPointOfDivergence": false,
+      "iconId": "event_icon",
+      "causes": [],
+      "effects": [],
+      "linkedCharacterIds": [
+        "char-unknown-modern-002"
+      ],
+      "linkedLocationIds": [],
+      "linkedTechnologyIds": [],
+      "linkedCultureIds": [],
+      "linkedSourceDocumentIds": [],
+      "linkedNarrativeIds": [],
+      "notes": "Empty string date with high importance",
+      "tags": [
+        "modern",
+        "empty-date",
+        "important"
+      ]
+    },
+    {
+      "id": "event-whitespace-date-018",
+      "title": "Event with Whitespace Date",
+      "description": "Important event with whitespace-only date",
+      "date": "   ",
+      "endDate": null,
+      "timelineId": "tl-modern-era-003",
+      "importance": 8,
+      "isPointOfDivergence": false,
+      "iconId": "event_icon",
+      "causes": [],
+      "effects": [],
+      "linkedCharacterIds": [
+        "char-unknown-modern-003"
+      ],
+      "linkedLocationIds": [],
+      "linkedTechnologyIds": [],
+      "linkedCultureIds": [],
+      "linkedSourceDocumentIds": [],
+      "linkedNarrativeIds": [],
+      "notes": "Whitespace-only date with high importance",
+      "tags": [
+        "modern",
+        "whitespace-date",
+        "important"
+      ]
+    }
+  ],
+  "pointsOfDivergence": [],
+  "isMainTimeline": true,
+  "parentTimelineId": null,
+  "tags": [
+    "modern",
+    "test",
+    "errors"
+  ]
+}

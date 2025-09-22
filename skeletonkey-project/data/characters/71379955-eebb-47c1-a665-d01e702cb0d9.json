@@ -1,0 +1,47 @@
+{
+  "id": "71379955-eebb-47c1-a665-d01e702cb0d9",
+  "name": "Julius Caesar",
+  "description": "Roman general and statesman",
+  "birthDate": null,
+  "deathDate": null,
+  "traits": [
+    "Military Strategist",
+    "Politician",
+    "Orator"
+  ],
+  "motivation": "Expand Roman territory and establish dominance.",
+  "background": "Rose to power through military victories and political alliances.",
+  "isHistorical": true,
+  "imageUrl": null,
+  "timelineIds": [
+    "tl-ancient-world-001"
+  ],
+  "linkedEventIds": [
+    "000069-01-01T00:00:00.000Z",
+    "000068-01-01T00:00:00.000Z",
+    "000067-01-01T00:00:00.000Z",
+    "000500-01-01T00:00:00.000Z",
+    "000501-01-01T00:00:00.000Z",
+    "000502-01-01T00:00:00.000Z",
+    "001804-05-18T00:00:00.000Z",
+    "001812-06-24T00:00:00.000Z",
+    "001798-07-01T00:00:00.000Z"
+  ],
+  "relatedCharacterIds": {
+    "cleopatra_vii": [
+      "1"
+    ]
+  },
+  "locations": [
+    "Rome",
+    "Gaul",
+    "Britain",
+    "Egypt"
+  ],
+  "tags": [
+    "Ancient Rome",
+    "Politics",
+    "Military"
+  ],
+  "notes": "A pivotal figure in Roman history, known for his military genius and political ambition."
+}

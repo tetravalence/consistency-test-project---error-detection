@@ -1,0 +1,30 @@
+{
+  "id": "ece2e10a-0c61-46ea-98dc-3be675a2dd9d",
+  "name": "Internal Combustion Engine",
+  "description": "An engine that converts chemical energy into mechanical energy through combustion.",
+  "discoveryDate": "1876",
+  "developmentLevel": 7,
+  "impact": 9,
+  "fields": [],
+  "prerequisiteTechIds": [
+    "te-gunpowder"
+  ],
+  "derivedTechIds": [
+    "te-gasoline-engine"
+  ],
+  "inventors": [
+    "Karl Benz"
+  ],
+  "timelineIds": [
+    "tl-modern-era-003"
+  ],
+  "linkedEventIds": [
+    "001804-05-18T00:00:00.000Z"
+  ],
+  "tags": [
+    "Industrial Revolution",
+    "Power",
+    "Transportation"
+  ],
+  "notes": ""
+}

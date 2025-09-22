@@ -1,0 +1,36 @@
+{
+  "id": "char-king-arthur-001",
+  "name": "King Arthur",
+  "description": "Legendary British king with multiple location conflicts",
+  "birthDate": "000470-01-01T00:00:00.000Z",
+  "deathDate": "000537-01-01T00:00:00.000Z",
+  "traits": [
+    "Noble",
+    "Warrior",
+    "Leader"
+  ],
+  "motivation": "To unite Britain and establish peace",
+  "background": "Legendary king of Britain",
+  "notes": "Fictional character for testing location conflicts",
+  "isHistorical": false,
+  "imageUrl": null,
+  "tags": [
+    "britain",
+    "legend",
+    "conflict-test"
+  ],
+  "timelineIds": [
+    "tl-medieval-conflicts-002"
+  ],
+  "relatedCharacterIds": [],
+  "linkedEventIds": [
+    "event-arthur-camelot-008",
+    "event-arthur-france-009",
+    "event-arthur-scotland-010"
+  ],
+  "locations": [
+    "loc-camelot-001",
+    "loc-france-001",
+    "loc-scotland-001"
+  ]
+}

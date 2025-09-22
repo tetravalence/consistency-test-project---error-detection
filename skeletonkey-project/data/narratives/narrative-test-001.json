@@ -1,0 +1,29 @@
+{
+  "id": "narrative-test-001",
+  "title": "Test Narrative of Conflicts",
+  "description": "A narrative thread designed to highlight the location conflicts in our test data",
+  "summary": "This narrative follows characters as they impossibly appear in multiple locations simultaneously, creating obvious consistency errors.",
+  "themes": [
+    "Conflict",
+    "Testing",
+    "Impossible Travel"
+  ],
+  "linkedEventIds": [
+    "event-cleopatra-egypt-001",
+    "event-cleopatra-rome-002",
+    "event-cleopatra-spain-003",
+    "event-napoleon-france-013",
+    "event-napoleon-russia-014",
+    "event-napoleon-egypt-015"
+  ],
+  "linkedCharacterIds": [
+    "char-cleopatra-001",
+    "char-napoleon-001"
+  ],
+  "notes": "This narrative is specifically designed to showcase consistency analysis capabilities",
+  "tags": [
+    "test",
+    "conflict",
+    "analysis"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "loc-madrid-001",
+  "name": "Madrid",
+  "description": "City of Madrid, Spain",
+  "type": "City",
+  "coordinates": {
+    "lat": 40.4168,
+    "lng": -3.7038
+  },
+  "foundedDate": "000852-01-01T00:00:00.000Z",
+  "destroyedDate": null,
+  "population": 50000,
+  "importance": 6,
+  "notes": "Medieval Madrid",
+  "tags": [
+    "medieval",
+    "spain",
+    "city"
+  ],
+  "timelineIds": [
+    "tl-medieval-conflicts-002"
+  ],
+  "parentLocationId": null,
+  "linkedEventIds": [
+    "event-mixed-locations-012"
+  ]
+}

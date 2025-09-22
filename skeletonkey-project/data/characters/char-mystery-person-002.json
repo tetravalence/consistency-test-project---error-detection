@@ -1,0 +1,27 @@
+{
+  "id": "char-mystery-person-002",
+  "name": "Mystery Person Two",
+  "description": "Another character in undated high-importance event",
+  "birthDate": null,
+  "deathDate": null,
+  "traits": [
+    "Mysterious"
+  ],
+  "motivation": "Unknown",
+  "background": "Unknown figure",
+  "notes": "Another character for testing undated events",
+  "isHistorical": false,
+  "imageUrl": null,
+  "tags": [
+    "mystery",
+    "undated"
+  ],
+  "timelineIds": [
+    "tl-ancient-world-001"
+  ],
+  "relatedCharacterIds": [],
+  "linkedEventIds": [
+    "event-undated-important-007"
+  ],
+  "locations": []
+}

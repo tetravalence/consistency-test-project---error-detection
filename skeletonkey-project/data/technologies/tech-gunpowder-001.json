@@ -1,0 +1,26 @@
+{
+  "id": "tech-gunpowder-001",
+  "name": "Gunpowder",
+  "description": "Explosive powder for weapons",
+  "discoveryDate": "000900-01-01T00:00:00.000Z",
+  "developmentLevel": 6,
+  "impact": 8,
+  "fields": [
+    "Military",
+    "Mining",
+    "Fireworks"
+  ],
+  "notes": "Changed warfare forever",
+  "tags": [
+    "medieval",
+    "military",
+    "explosive"
+  ],
+  "prerequisiteTechIds": [],
+  "derivedTechIds": [],
+  "inventors": [],
+  "linkedEventIds": [],
+  "timelineIds": [
+    "tl-medieval-conflicts-002"
+  ]
+}

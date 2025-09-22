@@ -1,0 +1,27 @@
+{
+  "id": "char-unknown-modern-003",
+  "name": "Unknown Modern Figure 3",
+  "description": "Modern era character in whitespace date event",
+  "birthDate": "001800-01-01T00:00:00.000Z",
+  "deathDate": "001850-01-01T00:00:00.000Z",
+  "traits": [
+    "Unknown"
+  ],
+  "motivation": "Testing",
+  "background": "Modern test figure",
+  "notes": "For testing whitespace date events",
+  "isHistorical": false,
+  "imageUrl": null,
+  "tags": [
+    "modern",
+    "test"
+  ],
+  "timelineIds": [
+    "tl-modern-era-003"
+  ],
+  "relatedCharacterIds": [],
+  "linkedEventIds": [
+    "event-whitespace-date-018"
+  ],
+  "locations": []
+}

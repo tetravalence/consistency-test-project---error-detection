@@ -1,0 +1,27 @@
+{
+  "id": "loc-moscow-russia-001",
+  "name": "Moscow, Russia",
+  "description": "Russian capital during Napoleon's invasion",
+  "type": "Capital",
+  "coordinates": {
+    "lat": 55.7558,
+    "lng": 37.6173
+  },
+  "foundedDate": "001147-01-01T00:00:00.000Z",
+  "destroyedDate": null,
+  "population": 270000,
+  "importance": 8,
+  "notes": "Russian capital during 1812 invasion",
+  "tags": [
+    "modern",
+    "russia",
+    "capital"
+  ],
+  "timelineIds": [
+    "tl-modern-era-003"
+  ],
+  "parentLocationId": null,
+  "linkedEventIds": [
+    "event-napoleon-russia-014"
+  ]
+}

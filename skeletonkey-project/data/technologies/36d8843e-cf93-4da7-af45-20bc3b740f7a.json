@@ -1,0 +1,28 @@
+{
+  "id": "36d8843e-cf93-4da7-af45-20bc3b740f7a",
+  "name": "Telegraph",
+  "description": "An electrical device used for transmitting messages over a distance.",
+  "discoveryDate": "1837",
+  "developmentLevel": 6,
+  "impact": 6,
+  "fields": [],
+  "prerequisiteTechIds": [
+    "te-electromagnet"
+  ],
+  "derivedTechIds": [],
+  "inventors": [
+    "Samuel Morse"
+  ],
+  "timelineIds": [
+    "tl-modern-era-003"
+  ],
+  "linkedEventIds": [
+    "001804-05-18T00:00:00.000Z"
+  ],
+  "tags": [
+    "Industrial Revolution",
+    "Communication",
+    "Technology"
+  ],
+  "notes": ""
+}

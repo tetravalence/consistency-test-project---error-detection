@@ -1,0 +1,27 @@
+{
+  "id": "loc-alexandria-egypt-001",
+  "name": "Alexandria, Egypt",
+  "description": "Ancient city of Alexandria",
+  "type": "City",
+  "coordinates": {
+    "lat": 31.2001,
+    "lng": 29.9187
+  },
+  "foundedDate": "-000331-01-01T00:00:00.000Z",
+  "destroyedDate": null,
+  "population": 400000,
+  "importance": 9,
+  "notes": "Major ancient city",
+  "tags": [
+    "ancient",
+    "egypt",
+    "city"
+  ],
+  "timelineIds": [
+    "tl-ancient-world-001"
+  ],
+  "parentLocationId": null,
+  "linkedEventIds": [
+    "event-cleopatra-egypt-001"
+  ]
+}

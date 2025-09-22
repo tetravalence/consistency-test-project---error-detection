@@ -1,0 +1,161 @@
+{
+  "id": "tl-medieval-conflicts-002",
+  "name": "Medieval Conflicts Timeline",
+  "description": "Timeline with cross-character location conflicts",
+  "color": "#3498DB",
+  "startDate": "000500-01-01T00:00:00.000Z",
+  "endDate": "001500-01-01T00:00:00.000Z",
+  "events": [
+    {
+      "id": "event-arthur-camelot-008",
+      "title": "King Arthur at Camelot",
+      "description": "King Arthur rules from Camelot",
+      "date": "000500-01-01T00:00:00.000Z",
+      "endDate": null,
+      "timelineId": "tl-medieval-conflicts-002",
+      "importance": 8,
+      "isPointOfDivergence": false,
+      "iconId": "event_icon",
+      "causes": [],
+      "effects": [],
+      "linkedCharacterIds": [
+        "char-king-arthur-001"
+      ],
+      "linkedLocationIds": [
+        "loc-camelot-001"
+      ],
+      "linkedTechnologyIds": [],
+      "linkedCultureIds": [],
+      "linkedSourceDocumentIds": [],
+      "linkedNarrativeIds": [],
+      "notes": "Arthur in Camelot",
+      "tags": [
+        "arthur",
+        "camelot"
+      ]
+    },
+    {
+      "id": "event-arthur-france-009",
+      "title": "Arthur's French Campaign",
+      "description": "King Arthur leads campaign in France",
+      "date": "000501-01-01T00:00:00.000Z",
+      "endDate": null,
+      "timelineId": "tl-medieval-conflicts-002",
+      "importance": 7,
+      "isPointOfDivergence": false,
+      "iconId": "conflict_icon",
+      "causes": [],
+      "effects": [],
+      "linkedCharacterIds": [
+        "char-king-arthur-001"
+      ],
+      "linkedLocationIds": [
+        "loc-france-001"
+      ],
+      "linkedTechnologyIds": [],
+      "linkedCultureIds": [],
+      "linkedSourceDocumentIds": [],
+      "linkedNarrativeIds": [],
+      "notes": "Arthur in France - location conflict",
+      "tags": [
+        "arthur",
+        "france"
+      ]
+    },
+    {
+      "id": "event-arthur-scotland-010",
+      "title": "Arthur Battles in Scotland",
+      "description": "King Arthur fights in the Scottish highlands",
+      "date": "000502-01-01T00:00:00.000Z",
+      "endDate": null,
+      "timelineId": "tl-medieval-conflicts-002",
+      "importance": 6,
+      "isPointOfDivergence": false,
+      "iconId": "conflict_icon",
+      "causes": [],
+      "effects": [],
+      "linkedCharacterIds": [
+        "char-king-arthur-001"
+      ],
+      "linkedLocationIds": [
+        "loc-scotland-001"
+      ],
+      "linkedTechnologyIds": [],
+      "linkedCultureIds": [],
+      "linkedSourceDocumentIds": [],
+      "linkedNarrativeIds": [],
+      "notes": "Arthur in Scotland - third location conflict",
+      "tags": [
+        "arthur",
+        "scotland"
+      ]
+    },
+    {
+      "id": "event-mixed-locations-011",
+      "title": "Character with Mixed Location Types",
+      "description": "Event using both direct location field and linkedLocationIds",
+      "date": "000600-01-01T00:00:00.000Z",
+      "endDate": null,
+      "timelineId": "tl-medieval-conflicts-002",
+      "importance": 5,
+      "isPointOfDivergence": false,
+      "iconId": "event_icon",
+      "causes": [],
+      "effects": [],
+      "linkedCharacterIds": [
+        "char-mixed-location-person-001"
+      ],
+      "linkedLocationIds": [
+        "loc-dublin-001"
+      ],
+      "linkedTechnologyIds": [],
+      "linkedCultureIds": [],
+      "linkedSourceDocumentIds": [],
+      "linkedNarrativeIds": [],
+      "location": "Direct Location: London",
+      "notes": "Has both direct location field AND linkedLocationIds - should conflict",
+      "tags": [
+        "mixed",
+        "locations"
+      ]
+    },
+    {
+      "id": "event-mixed-locations-012",
+      "title": "Same Character Different Mixed Locations",
+      "description": "Same character with different location combinations",
+      "date": "000601-01-01T00:00:00.000Z",
+      "endDate": null,
+      "timelineId": "tl-medieval-conflicts-002",
+      "importance": 5,
+      "isPointOfDivergence": false,
+      "iconId": "event_icon",
+      "causes": [],
+      "effects": [],
+      "linkedCharacterIds": [
+        "char-mixed-location-person-001"
+      ],
+      "linkedLocationIds": [
+        "loc-paris-001",
+        "loc-madrid-001"
+      ],
+      "linkedTechnologyIds": [],
+      "linkedCultureIds": [],
+      "linkedSourceDocumentIds": [],
+      "linkedNarrativeIds": [],
+      "location": "",
+      "notes": "Multiple linked locations for same character",
+      "tags": [
+        "mixed",
+        "multiple"
+      ]
+    }
+  ],
+  "pointsOfDivergence": [],
+  "isMainTimeline": true,
+  "parentTimelineId": null,
+  "tags": [
+    "medieval",
+    "conflicts",
+    "test"
+  ]
+}

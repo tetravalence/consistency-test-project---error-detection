@@ -1,0 +1,77 @@
+{
+  "anchoredShapes": [
+    {
+      "id": "2d87812c-7eb5-4339-ab6a-3da5c98c2a94",
+      "type": "polygon",
+      "anchor": {
+        "locationId": "origin",
+        "offsetLat": 0,
+        "offsetLng": 0,
+        "anchorType": "center"
+      },
+      "geometry": {
+        "points": [
+          {
+            "lat": -6.595286618961897,
+            "lng": -74.17847982608639
+          },
+          {
+            "lat": -6.278627911223818,
+            "lng": -68.06392836565405
+          },
+          {
+            "lat": -4.086513229421279,
+            "lng": -65.46160535951157
+          },
+          {
+            "lat": 0.5918655520795262,
+            "lng": -69.1184097673666
+          },
+          {
+            "lat": 0.03553237190209397,
+            "lng": -74.2281149174939
+          },
+          {
+            "lat": -3.560175567391771,
+            "lng": -73.9784000568884
+          },
+          {
+            "lat": -6.595286618961897,
+            "lng": -74.17847982608639
+          }
+        ]
+      },
+      "style": {
+        "color": "#fbc02d",
+        "fillColor": "#ffffff",
+        "opacity": 1,
+        "fillOpacity": 0.6,
+        "strokeWidth": 4
+      },
+      "properties": {
+        "name": "122",
+        "description": "",
+        "category": "custom",
+        "timelineId": "tl-ancient-world-001",
+        "dateCreated": "2025-06-06T02:53:46.515Z",
+        "visibilityRules": {
+          "showOnTimelines": [
+            "tl-ancient-world-001"
+          ]
+        },
+        "dateModified": "2025-09-15T03:13:25.465Z"
+      }
+    }
+  ],
+  "scenarios": [],
+  "defaultMapSettings": {
+    "baseMap": "standard",
+    "showBorders": true,
+    "showLabels": true,
+    "defaultZoom": 2,
+    "defaultCenter": {
+      "lat": 30,
+      "lng": 0
+    }
+  }
+}

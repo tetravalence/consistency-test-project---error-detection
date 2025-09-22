@@ -1,0 +1,89 @@
+{
+  "id": "test-project-001",
+  "name": "Consistency Test Project - Error Detection",
+  "description": "A deliberately flawed project designed to test consistency analysis capabilities with multiple types of errors",
+  "created": "2025-05-23T10:00:00.000Z",
+  "modified": "2025-09-20T04:43:13.511Z",
+  "version": "1.0-test",
+  "indexes": {
+    "timelines": [
+      "tl-ancient-world-001",
+      "tl-medieval-conflicts-002",
+      "tl-modern-era-003"
+    ],
+    "characters": [
+      "char-cleopatra-001",
+      "char-julius-caesar-001",
+      "char-king-arthur-001",
+      "char-napoleon-001",
+      "char-mixed-location-person-001",
+      "char-mystery-person-001",
+      "char-mystery-person-002",
+      "char-unknown-modern-001",
+      "char-unknown-modern-002",
+      "char-unknown-modern-003",
+      "e76f7395-4379-485f-9610-5d8f6265b0bc",
+      "c9d89f1e-4a28-4b66-b463-9e58f3cec335",
+      "71379955-eebb-47c1-a665-d01e702cb0d9",
+      "b6da9ec4-1539-43d3-864f-077a5f376e08",
+      "22545718-aab6-4676-80e6-76a193c821ff",
+      "9a242ff9-0de1-4da0-bf6a-fdc2602a28af"
+    ],
+    "locations": [
+      "loc-alexandria-egypt-001",
+      "loc-britain-001",
+      "loc-cairo-egypt-001",
+      "loc-camelot-001",
+      "loc-dublin-001",
+      "loc-france-001",
+      "loc-gaul-001",
+      "loc-madrid-001",
+      "loc-moscow-russia-001",
+      "loc-paris-001",
+      "loc-paris-france-001",
+      "loc-rome-001",
+      "loc-scotland-001",
+      "loc-spain-001",
+      "6b22960b-7ea9-4d8e-9c1a-3b054b8d465b",
+      "1bc2f679-a397-4f72-9631-04f9b87d3c74"
+    ],
+    "technologies": [
+      "tech-printing-press-001",
+      "tech-gunpowder-001",
+      "8f055772-3ead-4e74-97b7-cf4c7a637fe8",
+      "19757af8-cdb8-4f43-bff4-74e8421fe172",
+      "ece2e10a-0c61-46ea-98dc-3be675a2dd9d",
+      "00f5a1f0-3348-4f5b-9929-f9b572081fca",
+      "36d8843e-cf93-4da7-af45-20bc3b740f7a"
+    ],
+    "cultures": [
+      "culture-roman-001",
+      "culture-egyptian-001",
+      "culture-medieval-french-001",
+      "culture-napoleonic-french-001"
+    ],
+    "sourceDocuments": [
+      "source-test-001",
+      "source-conflict-records-001",
+      "37d37b67-cff9-40a8-8b25-ce0f15658336"
+    ],
+    "narratives": [
+      "narrative-test-001",
+      "f1f71688-aad4-4c16-89c2-5411210339c6"
+    ]
+  },
+  "metadata": {
+    "entityCount": {
+      "timelines": 3,
+      "characters": 16,
+      "locations": 16,
+      "technologies": 7,
+      "cultures": 4,
+      "sourceDocuments": 3,
+      "narratives": 2
+    },
+    "lastModified": "2025-09-22T01:39:28.482Z",
+    "format": "hierarchical",
+    "version": "2.0"
+  }
+}

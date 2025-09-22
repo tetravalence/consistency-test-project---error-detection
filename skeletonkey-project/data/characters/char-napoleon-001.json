@@ -1,0 +1,36 @@
+{
+  "id": "char-napoleon-001",
+  "name": "Napoleon Bonaparte",
+  "description": "French emperor with extensive travels causing location conflicts",
+  "birthDate": "001769-08-15T00:00:00.000Z",
+  "deathDate": "001821-05-05T00:00:00.000Z",
+  "traits": [
+    "Strategic",
+    "Ambitious",
+    "Charismatic"
+  ],
+  "motivation": "To conquer Europe and establish French dominance",
+  "background": "French military leader and emperor",
+  "notes": "Historical figure for testing modern era conflicts",
+  "isHistorical": true,
+  "imageUrl": null,
+  "tags": [
+    "france",
+    "emperor",
+    "conflict-test"
+  ],
+  "timelineIds": [
+    "tl-modern-era-003"
+  ],
+  "relatedCharacterIds": [],
+  "linkedEventIds": [
+    "event-napoleon-france-013",
+    "event-napoleon-russia-014",
+    "event-napoleon-egypt-015"
+  ],
+  "locations": [
+    "loc-paris-france-001",
+    "loc-moscow-russia-001",
+    "loc-cairo-egypt-001"
+  ]
+}

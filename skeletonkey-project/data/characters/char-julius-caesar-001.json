@@ -1,0 +1,38 @@
+{
+  "id": "char-julius-caesar-001",
+  "name": "Julius Caesar",
+  "description": "Roman general and statesman - also appears in multiple locations",
+  "birthDate": "-000100-07-12T00:00:00.000Z",
+  "deathDate": "-000044-03-15T00:00:00.000Z",
+  "traits": [
+    "Military Genius",
+    "Ambitious",
+    "Charismatic"
+  ],
+  "motivation": "To conquer and rule",
+  "background": "Roman politician and general",
+  "notes": "Another character with location conflicts",
+  "isHistorical": true,
+  "imageUrl": null,
+  "tags": [
+    "rome",
+    "general",
+    "conflict-test"
+  ],
+  "timelineIds": [
+    "tl-ancient-world-001"
+  ],
+  "relatedCharacterIds": [
+    "char-cleopatra-001"
+  ],
+  "linkedEventIds": [
+    "event-cleopatra-rome-002",
+    "event-caesar-gaul-004",
+    "event-caesar-britain-005"
+  ],
+  "locations": [
+    "loc-rome-001",
+    "loc-gaul-001",
+    "loc-britain-001"
+  ]
+}

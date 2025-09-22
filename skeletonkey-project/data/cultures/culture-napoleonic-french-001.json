@@ -1,0 +1,44 @@
+{
+  "id": "culture-napoleonic-french-001",
+  "name": "Napoleonic French Culture",
+  "description": "French culture during Napoleon's era",
+  "foundedDate": "001799-01-01T00:00:00.000Z",
+  "endDate": "001815-01-01T00:00:00.000Z",
+  "values": [
+    "Glory",
+    "Empire",
+    "Meritocracy"
+  ],
+  "practices": [
+    "Military campaigns",
+    "Legal codification",
+    "Imperial ceremonies"
+  ],
+  "languages": [
+    "French"
+  ],
+  "beliefs": [
+    "Secular rationalism",
+    "Imperial cult"
+  ],
+  "notes": "Culture of the Napoleonic era",
+  "tags": [
+    "modern",
+    "france",
+    "empire"
+  ],
+  "timelineIds": [
+    "tl-modern-era-003"
+  ],
+  "linkedLocationIds": [
+    "loc-paris-france-001"
+  ],
+  "linkedCharacterIds": [
+    "char-napoleon-001"
+  ],
+  "linkedEventIds": [
+    "event-napoleon-france-013",
+    "event-napoleon-russia-014",
+    "event-napoleon-egypt-015"
+  ]
+}

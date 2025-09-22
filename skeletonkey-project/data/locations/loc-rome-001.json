@@ -1,0 +1,27 @@
+{
+  "id": "loc-rome-001",
+  "name": "Rome",
+  "description": "Capital of the Roman Empire",
+  "type": "City",
+  "coordinates": {
+    "lat": 41.9028,
+    "lng": 12.4964
+  },
+  "foundedDate": "-000753-01-01T00:00:00.000Z",
+  "destroyedDate": null,
+  "population": 1000000,
+  "importance": 10,
+  "notes": "Center of Roman power",
+  "tags": [
+    "ancient",
+    "rome",
+    "capital"
+  ],
+  "timelineIds": [
+    "tl-ancient-world-001"
+  ],
+  "parentLocationId": null,
+  "linkedEventIds": [
+    "event-cleopatra-rome-002"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "b6da9ec4-1539-43d3-864f-077a5f376e08",
+  "name": "King Arthur",
+  "description": "Legendary British king",
+  "birthDate": null,
+  "deathDate": null,
+  "traits": [
+    "Warrior",
+    "Leader",
+    "Magician"
+  ],
+  "motivation": "Uphold justice and protect the realm.",
+  "background": "A legendary figure from British folklore, associated with chivalry and heroism.",
+  "isHistorical": false,
+  "imageUrl": null,
+  "timelineIds": [
+    "tl-medieval-conflicts-002"
+  ],
+  "linkedEventIds": [
+    "000500-01-01T00:00:00.000Z",
+    "000501-01-01T00:00:00.000Z",
+    "000502-01-01T00:00:00.000Z"
+  ],
+  "relatedCharacterIds": {},
+  "locations": [
+    "Camelot",
+    "France",
+    "Scotland"
+  ],
+  "tags": [
+    "British Legend",
+    "Medieval",
+    "Chivalry"
+  ],
+  "notes": "The central figure of the Arthurian legends, known for his courage and leadership."
+}

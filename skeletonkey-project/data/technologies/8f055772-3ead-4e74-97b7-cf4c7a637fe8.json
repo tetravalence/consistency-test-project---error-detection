@@ -1,0 +1,28 @@
+{
+  "id": "8f055772-3ead-4e74-97b7-cf4c7a637fe8",
+  "name": "Steam Engine",
+  "description": "An engine that uses the expansion of steam to generate power.",
+  "discoveryDate": "1765",
+  "developmentLevel": 8,
+  "impact": 9,
+  "fields": [],
+  "prerequisiteTechIds": [],
+  "derivedTechIds": [
+    "te-steam-turbine"
+  ],
+  "inventors": [
+    "James Watt"
+  ],
+  "timelineIds": [
+    "tl-modern-era-003"
+  ],
+  "linkedEventIds": [
+    "001804-05-18T00:00:00.000Z"
+  ],
+  "tags": [
+    "Industrial Revolution",
+    "Power",
+    "Transportation"
+  ],
+  "notes": ""
+}

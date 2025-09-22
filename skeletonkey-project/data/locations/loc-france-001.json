@@ -1,0 +1,27 @@
+{
+  "id": "loc-france-001",
+  "name": "France",
+  "description": "Kingdom of France",
+  "type": "Kingdom",
+  "coordinates": {
+    "lat": 46.2276,
+    "lng": 2.2137
+  },
+  "foundedDate": "000843-01-01T00:00:00.000Z",
+  "destroyedDate": null,
+  "population": 17000000,
+  "importance": 9,
+  "notes": "Medieval French kingdom",
+  "tags": [
+    "medieval",
+    "kingdom",
+    "france"
+  ],
+  "timelineIds": [
+    "tl-medieval-conflicts-002"
+  ],
+  "parentLocationId": null,
+  "linkedEventIds": [
+    "event-arthur-france-009"
+  ]
+}

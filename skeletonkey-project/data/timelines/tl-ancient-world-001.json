@@ -1,0 +1,211 @@
+{
+  "id": "tl-ancient-world-001",
+  "name": "Ancient World Timeline",
+  "description": "Timeline with multiple character location conflicts",
+  "color": "#E74C3C",
+  "startDate": "-003000-01-01T00:00:00.000Z",
+  "endDate": "-000500-01-01T00:00:00.000Z",
+  "events": [
+    {
+      "id": "event-cleopatra-egypt-001",
+      "title": "Cleopatra Rules Egypt",
+      "description": "Cleopatra becomes pharaoh of Egypt",
+      "date": "-000069-01-01T00:00:00.000Z",
+      "endDate": null,
+      "timelineId": "tl-ancient-world-001",
+      "importance": 9,
+      "isPointOfDivergence": false,
+      "iconId": "event_icon",
+      "causes": [],
+      "effects": [],
+      "linkedCharacterIds": [
+        "char-cleopatra-001"
+      ],
+      "linkedLocationIds": [
+        "loc-alexandria-egypt-001"
+      ],
+      "linkedTechnologyIds": [],
+      "linkedCultureIds": [],
+      "linkedSourceDocumentIds": [],
+      "linkedNarrativeIds": [],
+      "notes": "First appearance in Egypt",
+      "tags": [
+        "egypt",
+        "pharaoh"
+      ]
+    },
+    {
+      "id": "event-cleopatra-rome-002",
+      "title": "Cleopatra Meets Julius Caesar in Rome",
+      "description": "Cleopatra travels to Rome and forms alliance with Caesar",
+      "date": "-000068-01-01T00:00:00.000Z",
+      "endDate": null,
+      "timelineId": "tl-ancient-world-001",
+      "importance": 8,
+      "isPointOfDivergence": false,
+      "iconId": "event_icon",
+      "causes": [],
+      "effects": [],
+      "linkedCharacterIds": [
+        "char-cleopatra-001",
+        "char-julius-caesar-001"
+      ],
+      "linkedLocationIds": [
+        "loc-rome-001"
+      ],
+      "linkedTechnologyIds": [],
+      "linkedCultureIds": [],
+      "linkedSourceDocumentIds": [],
+      "linkedNarrativeIds": [],
+      "notes": "Same character, different location, same timeline - SHOULD TRIGGER ERROR",
+      "tags": [
+        "rome",
+        "politics"
+      ]
+    },
+    {
+      "id": "event-cleopatra-spain-003",
+      "title": "Cleopatra's Spanish Campaign",
+      "description": "Cleopatra personally leads military campaign in Spain",
+      "date": "-000067-01-01T00:00:00.000Z",
+      "endDate": null,
+      "timelineId": "tl-ancient-world-001",
+      "importance": 7,
+      "isPointOfDivergence": false,
+      "iconId": "conflict_icon",
+      "causes": [],
+      "effects": [],
+      "linkedCharacterIds": [
+        "char-cleopatra-001"
+      ],
+      "linkedLocationIds": [
+        "loc-spain-001"
+      ],
+      "linkedTechnologyIds": [],
+      "linkedCultureIds": [],
+      "linkedSourceDocumentIds": [],
+      "linkedNarrativeIds": [],
+      "notes": "Third location for same character - MAJOR CONFLICT",
+      "tags": [
+        "spain",
+        "military"
+      ]
+    },
+    {
+      "id": "event-caesar-gaul-004",
+      "title": "Caesar Conquers Gaul",
+      "description": "Julius Caesar leads campaigns in Gaul",
+      "date": "-000058-01-01T00:00:00.000Z",
+      "endDate": null,
+      "timelineId": "tl-ancient-world-001",
+      "importance": 9,
+      "isPointOfDivergence": false,
+      "iconId": "conflict_icon",
+      "causes": [],
+      "effects": [],
+      "linkedCharacterIds": [
+        "char-julius-caesar-001"
+      ],
+      "linkedLocationIds": [
+        "loc-gaul-001"
+      ],
+      "linkedTechnologyIds": [],
+      "linkedCultureIds": [],
+      "linkedSourceDocumentIds": [],
+      "linkedNarrativeIds": [],
+      "notes": "Caesar appears in Gaul while also being in Rome",
+      "tags": [
+        "gaul",
+        "conquest"
+      ]
+    },
+    {
+      "id": "event-caesar-britain-005",
+      "title": "Caesar Invades Britain",
+      "description": "Caesar crosses the channel to invade Britain",
+      "date": "-000055-01-01T00:00:00.000Z",
+      "endDate": null,
+      "timelineId": "tl-ancient-world-001",
+      "importance": 8,
+      "isPointOfDivergence": false,
+      "iconId": "conflict_icon",
+      "causes": [],
+      "effects": [],
+      "linkedCharacterIds": [
+        "char-julius-caesar-001"
+      ],
+      "linkedLocationIds": [
+        "loc-britain-001"
+      ],
+      "linkedTechnologyIds": [],
+      "linkedCultureIds": [],
+      "linkedSourceDocumentIds": [],
+      "linkedNarrativeIds": [],
+      "notes": "Another location for Caesar - should conflict",
+      "tags": [
+        "britain",
+        "invasion"
+      ]
+    },
+    {
+      "id": "event-undated-important-006",
+      "title": "Critical Event Without Date",
+      "description": "This is a very important event that lacks any date information",
+      "date": null,
+      "endDate": null,
+      "timelineId": "tl-ancient-world-001",
+      "importance": 10,
+      "isPointOfDivergence": false,
+      "iconId": "event_icon",
+      "causes": [],
+      "effects": [],
+      "linkedCharacterIds": [
+        "char-mystery-person-001"
+      ],
+      "linkedLocationIds": [],
+      "linkedTechnologyIds": [],
+      "linkedCultureIds": [],
+      "linkedSourceDocumentIds": [],
+      "linkedNarrativeIds": [],
+      "notes": "High importance but no date - should trigger warning",
+      "tags": [
+        "mystery",
+        "undated"
+      ]
+    },
+    {
+      "id": "event-undated-important-007",
+      "title": "Another Critical Undated Event",
+      "description": "Another very important event without a date",
+      "date": "",
+      "endDate": null,
+      "timelineId": "tl-ancient-world-001",
+      "importance": 9,
+      "isPointOfDivergence": false,
+      "iconId": "event_icon",
+      "causes": [],
+      "effects": [],
+      "linkedCharacterIds": [
+        "char-mystery-person-002"
+      ],
+      "linkedLocationIds": [],
+      "linkedTechnologyIds": [],
+      "linkedCultureIds": [],
+      "linkedSourceDocumentIds": [],
+      "linkedNarrativeIds": [],
+      "notes": "Empty date string - should also trigger warning",
+      "tags": [
+        "mystery",
+        "undated"
+      ]
+    }
+  ],
+  "pointsOfDivergence": [],
+  "isMainTimeline": true,
+  "parentTimelineId": null,
+  "tags": [
+    "ancient",
+    "test",
+    "conflicts"
+  ]
+}

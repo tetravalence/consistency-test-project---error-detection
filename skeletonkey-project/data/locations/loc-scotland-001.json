@@ -1,0 +1,27 @@
+{
+  "id": "loc-scotland-001",
+  "name": "Scotland",
+  "description": "Kingdom of Scotland",
+  "type": "Kingdom",
+  "coordinates": {
+    "lat": 56.4907,
+    "lng": -4.2026
+  },
+  "foundedDate": "000843-01-01T00:00:00.000Z",
+  "destroyedDate": null,
+  "population": 500000,
+  "importance": 7,
+  "notes": "Medieval Scottish kingdom",
+  "tags": [
+    "medieval",
+    "kingdom",
+    "scotland"
+  ],
+  "timelineIds": [
+    "tl-medieval-conflicts-002"
+  ],
+  "parentLocationId": null,
+  "linkedEventIds": [
+    "event-arthur-scotland-010"
+  ]
+}

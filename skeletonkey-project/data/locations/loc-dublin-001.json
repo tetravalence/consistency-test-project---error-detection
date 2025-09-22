@@ -1,0 +1,27 @@
+{
+  "id": "loc-dublin-001",
+  "name": "Dublin",
+  "description": "Irish city of Dublin",
+  "type": "City",
+  "coordinates": {
+    "lat": 53.3498,
+    "lng": -6.2603
+  },
+  "foundedDate": "000841-01-01T00:00:00.000Z",
+  "destroyedDate": null,
+  "population": 10000,
+  "importance": 6,
+  "notes": "Medieval Irish city",
+  "tags": [
+    "medieval",
+    "ireland",
+    "city"
+  ],
+  "timelineIds": [
+    "tl-medieval-conflicts-002"
+  ],
+  "parentLocationId": null,
+  "linkedEventIds": [
+    "event-mixed-locations-011"
+  ]
+}

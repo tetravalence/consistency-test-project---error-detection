@@ -1,0 +1,42 @@
+{
+  "id": "culture-egyptian-001",
+  "name": "Egyptian Culture",
+  "description": "Ancient Egyptian civilization",
+  "foundedDate": "-003100-01-01T00:00:00.000Z",
+  "endDate": "-000030-01-01T00:00:00.000Z",
+  "values": [
+    "Order (Ma'at)",
+    "Afterlife",
+    "Divine kingship"
+  ],
+  "practices": [
+    "Mummification",
+    "Pyramid building",
+    "Hieroglyphic writing"
+  ],
+  "languages": [
+    "Egyptian"
+  ],
+  "beliefs": [
+    "Egyptian pantheon",
+    "Afterlife journey"
+  ],
+  "notes": "Ancient Nile civilization",
+  "tags": [
+    "ancient",
+    "egypt",
+    "pharaohs"
+  ],
+  "timelineIds": [
+    "tl-ancient-world-001"
+  ],
+  "linkedLocationIds": [
+    "loc-alexandria-egypt-001"
+  ],
+  "linkedCharacterIds": [
+    "char-cleopatra-001"
+  ],
+  "linkedEventIds": [
+    "event-cleopatra-egypt-001"
+  ]
+}

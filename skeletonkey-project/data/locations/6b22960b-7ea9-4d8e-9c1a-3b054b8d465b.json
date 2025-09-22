@@ -1,0 +1,18 @@
+{
+  "id": "6b22960b-7ea9-4d8e-9c1a-3b054b8d465b",
+  "name": "Untitled placemark",
+  "description": "",
+  "coordinates": {
+    "lat": 9.252024730100365,
+    "lng": -89.78365204744154
+  },
+  "timelineIds": [
+    "tl-ancient-world-001"
+  ],
+  "category": "location",
+  "tags": [
+    "imported",
+    "google-earth"
+  ],
+  "properties": {}
+}

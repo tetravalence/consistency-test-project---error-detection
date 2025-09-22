@@ -1,0 +1,30 @@
+{
+  "id": "19757af8-cdb8-4f43-bff4-74e8421fe172",
+  "name": "Steel Production",
+  "description": "The process of manufacturing steel from iron ore.",
+  "discoveryDate": "1856",
+  "developmentLevel": 7,
+  "impact": 8,
+  "fields": [],
+  "prerequisiteTechIds": [
+    "te-pig-iron-production"
+  ],
+  "derivedTechIds": [
+    "te-steel-alloy"
+  ],
+  "inventors": [
+    "Abraham Darby"
+  ],
+  "timelineIds": [
+    "tl-modern-era-003"
+  ],
+  "linkedEventIds": [
+    "001804-05-18T00:00:00.000Z"
+  ],
+  "tags": [
+    "Industrial Revolution",
+    "Materials",
+    "Manufacturing"
+  ],
+  "notes": ""
+}
